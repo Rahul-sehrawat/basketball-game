@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #edeeef;
+
+}
+
+.container{
+    display: flex;
+    margin-left: 200px;
+}
+
+canvas {
+    background: url('./assets/court.jpg');
+    background-size: contain;
+    display: block;
+    margin: 20px ;
+    border: 2px solid black;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.config{
+    margin-top: 20px;
+    cursor: pointer;
+
+}

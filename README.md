@@ -35,5 +35,9 @@ A simple basketball game built using HTML5 Canvas and JavaScript. Players can mo
 - Implement different difficulty levels
 - Mobile support with touch controls
 
+# project images
 
+![iamge1](project_image/image1.png)
+
+![image2](project_image/image2.png)
 
